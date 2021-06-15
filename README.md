@@ -1,4 +1,4 @@
 # rubik-cube
 A 2d virtual representation of a 3x3 rubik cube.
-![](rubix-cube/Screen Shot 2021-06-15 at 4.52.52 PM.png)
+![](Screen%20Shot%202021-06-15%20at%204.52.52%20PM.png)
 
