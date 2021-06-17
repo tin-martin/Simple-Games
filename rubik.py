@@ -229,7 +229,6 @@ class rubik:
       print(self.row7)
       print(self.row8)
       print(self.row9)
-
     else:
       draw_rect(self.row1, 0)
       draw_rect(self.row2, 1)
@@ -265,9 +264,6 @@ class rubik:
       move()
       self.format()
     
-      
-  
-
   #defining prime and non-prime moves
     def u(event):
       move(self.up)
