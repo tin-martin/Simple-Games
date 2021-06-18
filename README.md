@@ -3,7 +3,7 @@ Rubix cube implementation. Cube mechanics designed by skrtis.
 
 ![](giphy.gif)
 
-Commands:
+**Commands:**
 
 r (right), l(left), d(down), u(up)  
 
