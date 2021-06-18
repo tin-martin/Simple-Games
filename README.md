@@ -9,5 +9,4 @@ r (right), l(left), d(down), u(up)
 
 *capitals are primes (ex. R = r prime)
 
-m: mix
-s: solved state
+m (mix), s (reset)
