@@ -5,7 +5,7 @@ Rubix cube implementation. Cube mechanics designed by skrtis.
 
 Commands:
 r: right  
-l: left 
+/nl: left 
 d:down 
 u:up 
 *capitals are primes (ex. R = r prime)
